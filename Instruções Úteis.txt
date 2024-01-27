@@ -1,0 +1,8 @@
+- Todas as odds são da bet365
+- As colunas que tem _op se referem a odd de abertura
+- Colunas de PL se referem ao lucro de cada mercado
+- AH = asian handicap (handicap asiatico)
+- AhOU = asian handicap over under (linha de gols no handicap asiático)
+- H = Home = Time da Casa
+- D = Draw = Empate
+- A = Away = Time Visitante
